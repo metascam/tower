@@ -1,0 +1,104 @@
+Uri: https://turbogames.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\мусор\turbogames.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/clientarea/Brandbook.pdf
+File Name: D:\мусор\turbogames.io\clientarea\Brandbook.pdf
+Content Type: application/pdf
+
+Uri: https://turbogames.io/favicon.svg
+File Name: D:\мусор\turbogames.io\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://turbogames.io/game/towers
+File Name: D:\мусор\turbogames.io\game\towers.html
+Content Type: text/html
+
+Uri: https://turbogames.io/images/assets/towers/bg-logo.png
+File Name: D:\мусор\turbogames.io\images\assets\towers\bg-logo.png
+Content Type: image/png
+
+Uri: https://turbogames.io/images/assets/towers/bg-new.jpg
+File Name: D:\мусор\turbogames.io\images\assets\towers\bg-new.jpg
+Content Type: image/jpeg
+
+Uri: https://turbogames.io/images/assets/towers/slide1.jpg
+File Name: D:\мусор\turbogames.io\images\assets\towers\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://turbogames.io/images/assets/towers/slide2.jpg
+File Name: D:\мусор\turbogames.io\images\assets\towers\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://turbogames.io/images/assets/towers/slide3.jpg
+File Name: D:\мусор\turbogames.io\images\assets\towers\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://turbogames.io/images/assets/towers/slide4.jpg
+File Name: D:\мусор\turbogames.io\images\assets\towers\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://turbogames.io/_next/static/chunks/293-82d756ec2977e02d.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\293-82d756ec2977e02d.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/373-38b9cb481766ed4f.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\373-38b9cb481766ed4f.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/386-5c7dc9899882c7be.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\386-5c7dc9899882c7be.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/619-3f7be4e1fc0f2ff5.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\619-3f7be4e1fc0f2ff5.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/951-8edb0c381ca3d547.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\951-8edb0c381ca3d547.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/framework-5f4595e5518b5600.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\framework-5f4595e5518b5600.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/main-a054bbf31fb90f6a.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\main-a054bbf31fb90f6a.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/pages/game/[id]-8f0fe75bc99c8101.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\pages\game\[id]-8f0fe75bc99c8101.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/pages/_app-1416832d1f42ea6c.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\pages\_app-1416832d1f42ea6c.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/chunks/webpack-3dad41464b7c1ed4.js
+File Name: D:\мусор\turbogames.io\_next\static\chunks\webpack-3dad41464b7c1ed4.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/css/37c3d2faf6255f0e.css
+File Name: D:\мусор\turbogames.io\_next\static\css\37c3d2faf6255f0e.css
+Content Type: text/css
+
+Uri: https://turbogames.io/_next/static/css/b25252714ccfd897.css
+File Name: D:\мусор\turbogames.io\_next\static\css\b25252714ccfd897.css
+Content Type: text/css
+
+Uri: https://turbogames.io/_next/static/pXZXRaxs4ciODqfO6p_Y2/_buildManifest.js
+File Name: D:\мусор\turbogames.io\_next\static\pXZXRaxs4ciODqfO6p_Y2\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/pXZXRaxs4ciODqfO6p_Y2/_middlewareManifest.js
+File Name: D:\мусор\turbogames.io\_next\static\pXZXRaxs4ciODqfO6p_Y2\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://turbogames.io/_next/static/pXZXRaxs4ciODqfO6p_Y2/_ssgManifest.js
+File Name: D:\мусор\turbogames.io\_next\static\pXZXRaxs4ciODqfO6p_Y2\_ssgManifest.js
+Content Type: application/javascript
+
